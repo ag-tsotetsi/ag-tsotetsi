@@ -1,49 +1,34 @@
-# Hi, I'm Gift 👋
+# Hi, I'm Gift
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Software Developer** passionate about understanding how things work from the inside out. I thrive when working with low-level languages like **C**—give me freedom, but not too many restrictions! On the web, I enjoy building applications with **PHP & Laravel**. I also use **Python** and **Bash** for scripting and automating tasks. I use **C#** for creating GUI tools.
+I'm a **software developer** who loves understanding how things work from the inside out. Whether it’s backend logic or frontend design, I enjoy creating tools that make life simpler — and learning something new along the way.
 
-- 🍍 Pineapple on pizza is a crime.
-- 🛠️ I love building things from source and reverse engineering useful tools.
-- 🔄 I tend to “reinvent the wheel”—I just need to know how it works.
-- 🤫 Introverted, but fascinated by deep, thoughtful conversations, debate, and a bit of controversy.
-- 📚 Self-taught and always learning.
+* I like building things from scratch and learning through experimentation.
+* I often “reinvent the wheel” — not because I have to, but because I want to know how it turns.
+* I value thoughtful conversations, creative ideas, and practical problem-solving.
+* I believe in growth, balance, and keeping a good sense of humor through it all.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **Languages:** C, PHP, Python, Bash, Vallina JavaScript & TypeScript, C#
-- **Frameworks:** Laravel, .NET
-- **Tools:** Intellij IDEs, Git
+* **Languages:** PHP, Python, C, JavaScript, TypeScript
+* **Frameworks:** Laravel, Vue, React
+* **Databases:** PostgreSQL, MySQL
+* **Tools:** Git, VS Code, Linux
 
-## 🌱 Currently
+## Let’s Connect
 
-- Exploring new ways to automate and simplify tasks.
-- Recreating tools I find useful—just for the fun (and the challenge) of it.
+* [LinkedIn](https://www.linkedin.com/in/ag.tsotetsi)
+* [GitHub](https://github.com/ag-tsotetsi)
 
-## 📊 GitHub Stats & Activity
+## Fun Facts
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gkerenel&show_icons=true&theme=radical" alt="gkerenel's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gkerenel&theme=radical" alt="gkerenel's GitHub streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gkerenel&theme=radical" alt="gkerenel's Contribution Graph" />
-</p>
-
-## 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/gkerenel)
-- [Twitter/X](https://x.com/gkerenel)
-- [Instagram](https://www.instagram.com/gkerenel)
-- [Website](https://kerenel.com)
-
-## ⚡ Fun Facts
-
-- I find pineapple on pizza a crime against cuisine.
-- I enjoy debates, especially on controversial or unconventional topics.
-- I’m always up for discussing how things work under the hood.
+* Pineapple on pizza is a crime.
+* I enjoy solving tough problems and figuring out how things really work.
+* I like simple, thoughtful design — in both code and life.
 
 ---
 
 > “I don’t like not knowing how things work. So, I build, break, and rebuild until I do.”
+
+---
