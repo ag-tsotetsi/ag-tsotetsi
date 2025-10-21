@@ -1,25 +1,13 @@
-# Hi, I'm Gift
-
-## About Me
-
-I'm a **software developer** who loves understanding how things work from the inside out. Whether it’s backend logic or frontend design, I enjoy creating tools that make life simpler — and learning something new along the way.
+# Hello there! 👋 I'm Gift
 
 * I like building things from scratch and learning through experimentation.
 * I often “reinvent the wheel” — not because I have to, but because I want to know how it turns.
 * I value thoughtful conversations, creative ideas, and practical problem-solving.
 * I believe in growth, balance, and keeping a good sense of humor through it all.
 
-## Tech Stack
-
-* **Languages:** PHP, Python, C, JavaScript, TypeScript
-* **Frameworks:** Laravel, Vue, React
-* **Databases:** PostgreSQL, MySQL
-* **Tools:** Git, VS Code, Linux
-
 ## Let’s Connect
 
 * [LinkedIn](https://www.linkedin.com/in/ag.tsotetsi)
-* [GitHub](https://github.com/ag-tsotetsi)
 
 ## Fun Facts
 
@@ -29,6 +17,6 @@ I'm a **software developer** who loves understanding how things work from the in
 
 ---
 
-> “I don’t like not knowing how things work. So, I build, break, and rebuild until I do.”
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ag-tsotetsi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ag-tsotetsi)
